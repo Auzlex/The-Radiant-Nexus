@@ -1,0 +1,74 @@
+{
+  "gateway_network": [
+    {
+      "Disabled": false,
+      "DisabledReason": "Unknown"
+    }
+  ],
+  "addresses": [
+    {
+      "Name": "The Nexus Hub",
+      "Area": "Unknown",
+      "Description": "The Radiant Nexus Community hub world",
+      "Disabled": false,
+      "DisabledReason": "The gateway is currently switched off",
+      "world_id": "wrld_0f5d1ed9-3a66-47f8-af69-98b21f9cfcf9"
+    },
+    {
+      "Name": "Offshore",
+      "Area": "Mirari Coast",
+      "Description": "A solaris scientist marine biology research outpost",
+      "Disabled": false,
+      "DisabledReason": "Unknown",
+      "world_id": "wrld_5ee0b0f4-2745-41c9-8c4e-c3718c10ba74"
+    },
+    {
+      "Name": "Apartment 76",
+      "Area": "Solaris",
+      "Description": "A room in the sky city of solaria",
+      "Disabled": false,
+      "DisabledReason": "Unknown",
+      "world_id": "wrld_fa26d6ac-50ae-4ed1-a273-36d2c7e3afc6"
+    },
+    {
+      "Name": "Lake of Time",
+      "Area": "Cyberia",
+      "Description": "Eternally frozen lake, recording thousands of years of history",
+      "Disabled": false,
+      "DisabledReason": "Unknown",
+      "world_id": "wrld_b7715190-9754-4b85-aed4-a9a33ccfb082"
+    },
+    {
+      "Name": "SUB-TERRA",
+      "Area": "NEOALPINA",
+      "Description": "Subterranean appartment complex.",
+      "Disabled": false,
+      "DisabledReason": "Construction in progress.",
+      "world_id": "wrld_6ee333aa-3b2d-4395-a101-63e3fb6006b9"
+    },
+    {
+      "Name": "Unknown",
+      "Area": "Solaris",
+      "Description": "A Solaris super magnet coil sub-station, one of many that levitate the sky city",
+      "Disabled": true,
+      "DisabledReason": "Offline",
+      "world_id": "wrld_402d015c-4167-4144-bd9d-1fbcefd5fa9a"
+    },
+    {
+      "Name": "Golden hour",
+      "Area": "Empyria",
+      "Description": "A small lounge on the outskirts of Velora in the Empyria Region in The Republic of Corbon",
+      "Disabled": true,
+      "DisabledReason": "Gateway is not linked",
+      "world_id": "wrld_686b2468-bde9-47cd-8919-19ef83ef7de2"
+    },
+    {
+      "Name": "Malesa Railway Bunker 4",
+      "Area": "Aetheron",
+      "Description": "An old bunker located in the lower part of the Railway station in Malesa located in the Aetheron region of the Republic of Corbon",
+      "Disabled": true,
+      "DisabledReason": "Gateway is not linked",
+      "world_id": "wrld_30831237-b7f0-4161-bd98-0cfd1f404755"
+    }
+  ]
+}
